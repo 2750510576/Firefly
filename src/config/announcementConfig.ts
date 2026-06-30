@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "欢迎来到甬时珍医药！本网站仅供门店成员使用学习，请勿外泄学习资料。",
 
 	// 是否允许用户关闭公告
 	closable: true,
