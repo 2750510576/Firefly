@@ -21,7 +21,7 @@ comment: true
 
 **佰药汇主要负责对接库存外卖，只有极少数的功能在佰药汇中使用，其他的均以美团等官方APP信息为准**
 
-## 库存同步软件
+## 提单同步库存软件
 
 __桌面软件图标__
 <img src="https://s41.ax1x.com/2026/07/01/pmdtiUs.png" style="float:left; margin-right:15px;">
