@@ -23,8 +23,8 @@ comment: true
 **外卖只有极少数的功能在佰药汇中使用，其他的均以美团等官方APP信息为准**
 
 ## 库存同步
-
-
+软件图标
+[![pmdtiUs.png](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)](https://imgchr.com/i/pmdtiUs)
 
 
 &nbsp;
