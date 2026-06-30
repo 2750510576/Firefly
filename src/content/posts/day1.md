@@ -24,7 +24,8 @@ comment: true
 ## 库存同步
 
 软件图标
-![logo](图片地址 "/images/abd1c3c9-0b24-4a6e-8dbd-b76f9e5dccdb.png")
+
+![logo](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)
 
 
 
