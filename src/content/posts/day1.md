@@ -25,8 +25,7 @@ comment: true
 
 软件图标
 
-![logo](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)
-
+<img src="https://s41.ax1x.com/2026/07/01/pmdtiUs.png" style="float:left; margin-right:15px;">
 
 
 &nbsp;
