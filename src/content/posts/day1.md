@@ -23,7 +23,9 @@ comment: true
 
 ## 库存同步
 
-![软件图标](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)
+<img src="https://s41.ax1x.com/2026/07/01/pmdtiUs.png" style="float:left; margin-right:15px;">
+
+软件图标
 
 
 
