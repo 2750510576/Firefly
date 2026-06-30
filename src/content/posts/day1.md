@@ -1,5 +1,5 @@
 ---
-title: 外卖
+title: 外卖软件使用教程
 published: 2026-06-30
 updated: 2026-06-30
 draft: false
