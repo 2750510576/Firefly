@@ -17,17 +17,16 @@ comment: true
 
 **本教程基于外卖官方软件所编写，请区别于佰药汇！**
 
-
 # 佰药汇
 
 **外卖只有极少数的功能在佰药汇中使用，其他的均以美团等官方APP信息为准**
 
 ## 库存同步
+
 软件图标
-[!(https://s41.ax1x.com/2026/07/01/pmdtiUs.png)])
+![logo](图片地址 "/images/abd1c3c9-0b24-4a6e-8dbd-b76f9e5dccdb.png")
 
 
-&nbsp;
 
 &nbsp;
 
