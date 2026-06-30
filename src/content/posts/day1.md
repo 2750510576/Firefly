@@ -24,7 +24,7 @@ comment: true
 
 ## 库存同步
 软件图标
-[![pmdtiUs.png](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)](https://imgchr.com/i/pmdtiUs)
+[!(https://s41.ax1x.com/2026/07/01/pmdtiUs.png)])
 
 
 &nbsp;
