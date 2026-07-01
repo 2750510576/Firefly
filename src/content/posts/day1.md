@@ -79,13 +79,9 @@ comment: true
 
 ## 佰药云控
 
-**桌面软件图标**
+**桌面软件图标及右下角隐藏图标**
 
-![](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)
-
-**右下角隐藏图标**
-
-![](https://s41.ax1x.com/2026/07/01/pmdNL1P.png)
+![](https://s41.ax1x.com/2026/07/01/pmdTclt.png)
 
 123
 
