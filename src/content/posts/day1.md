@@ -117,5 +117,3 @@ comment: true
 &nbsp;
 
 &nbsp;
-
-&nbsp;
