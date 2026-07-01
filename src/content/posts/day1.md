@@ -23,11 +23,13 @@ comment: true
 
 ## 提单同步库存软件
 
-__桌面软件图标__
-<img src="https://s41.ax1x.com/2026/07/01/pmdtiUs.png" style="float:left; margin-right:15px;">
+**桌面软件图标**
+![](https://s41.ax1x.com/2026/07/01/pmdtiUs.png)
 
-__右下角隐藏图标__
-<img src="https://s41.ax1x.com/2026/07/01/pmdNL1P.png" style="float:left; margin-right:15px;">
+
+**右下角隐藏图标**
+![](https://s41.ax1x.com/2026/07/01/pmdNL1P.png)
+
 
 ### 订单管理
 
@@ -35,8 +37,7 @@ __右下角隐藏图标__
 
 
 
-
-
+&nbsp;
 
 &nbsp;
 
