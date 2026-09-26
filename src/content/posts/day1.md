@@ -196,6 +196,8 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/gG0UhOyo.png)
 
+![](https://img.yongshizhen.com/file/jtKqLQ1Y.png)
+
 ## 2、活动价设置
 
 ![](https://img.yongshizhen.com/file/np6DuzoF.png)
