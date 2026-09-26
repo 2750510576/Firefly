@@ -200,6 +200,8 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/XduAKG39.png)
 
+![](https://img.yongshizhen.com/file/f5jbY2Qu.png)
+
 # 京东
 
 ## 创建商品
