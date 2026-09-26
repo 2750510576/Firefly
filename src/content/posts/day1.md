@@ -128,11 +128,11 @@ comment: true
 
 **点击上侧“新建单个商品”**
 
-**可以使用条码搜索（UPC编码）或商品标题搜索**
+**可以使用条码搜索（UPC编码）或商品标题搜索123**
 
-![image.png](/images/image.png)
+![image.png](https://img.yongshizhen.com/file/LS9VXDTX.png)
 
-![image.png](/images/image-1.png)
+![image.png](https://img.yongshizhen.com/file/Qrv5M7em.png)
 
 **待商品列表出现商品后，点击编辑按钮，填写店内码（这个是对接库存的唯一途径）**
 
@@ -162,6 +162,3 @@ comment: true
 
 ## 修改商品
 
-
-
-&nbsp;
