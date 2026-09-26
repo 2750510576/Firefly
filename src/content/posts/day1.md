@@ -188,7 +188,7 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/7efdlmKd.png)
 
-## 修改商品
+## 2、活动家设置
 
 # 京东
 
