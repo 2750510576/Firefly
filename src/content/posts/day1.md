@@ -152,7 +152,17 @@ comment: true
 
 ## 2、活动价设置
 
+### ①活动价修改
+
+
+
+### ‌②活动价修改
+
 ![](https://img.yongshizhen.com/file/fjEM6bT5.png)
+
+
+
+&nbsp;
 
 ## 3、效期设置
 
