@@ -158,6 +158,8 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/PlPcWT9R.png)
 
+![](https://img.yongshizhen.com/file/xRRtTwxN.png)
+
 ### ‌②活动价新增
 
 ![](https://img.yongshizhen.com/file/fjEM6bT5.png)
