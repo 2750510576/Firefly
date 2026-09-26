@@ -180,6 +180,8 @@ comment: true
 
 ## 创建商品
 
+![](https://img.yongshizhen.com/file/KO0CvWcm.png)
+
 ## 修改商品
 
 # 京东
