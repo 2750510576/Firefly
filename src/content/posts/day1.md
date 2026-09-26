@@ -180,6 +180,8 @@ comment: true
 
 ## 𝟏、商品管理
 
+### ①商品新增
+
 ![](https://img.yongshizhen.com/file/KO0CvWcm.png)
 
 ![](https://img.yongshizhen.com/file/ltEWxAuo.png)
