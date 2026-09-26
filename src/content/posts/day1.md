@@ -200,11 +200,15 @@ comment: true
 
 ## 2、活动价设置
 
+### ①活动价修改
+
 ![](https://img.yongshizhen.com/file/np6DuzoF.png)
 
 ![](https://img.yongshizhen.com/file/XduAKG39.png)
 
 ![](https://img.yongshizhen.com/file/f5jbY2Qu.png)
+
+### ‌②活动价新增
 
 # 京东
 
