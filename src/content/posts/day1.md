@@ -152,6 +152,8 @@ comment: true
 
 ## 2、活动价设置
 
+![](https://img.yongshizhen.com/file/fjEM6bT5.png)
+
 ## 3、效期设置
 
 # 淘宝闪购
