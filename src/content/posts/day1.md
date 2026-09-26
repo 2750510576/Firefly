@@ -196,7 +196,7 @@ comment: true
 
 ## 2、活动价设置
 
-
+![](https://img.yongshizhen.com/file/wTRAImkq.png)
 
 # 京东
 
