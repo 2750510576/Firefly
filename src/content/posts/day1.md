@@ -186,7 +186,7 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/p0DDQqpp.png)
 
-
+![](https://img.yongshizhen.com/file/7efdlmKd.png)
 
 ## 修改商品
 
