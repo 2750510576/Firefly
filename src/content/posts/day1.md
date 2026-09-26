@@ -144,11 +144,11 @@ comment: true
 
 **一般是修改商品小标题，其他的修改也可以参考这个操作**
 
-![](/images/image-2.png)
+![](https://img.yongshizhen.com/file/iLteOMuz.png)
 
 **多数情况下，美团会在新的UPC码后面增加上1，上架方法参考前一条内容（但是这里需要注意先在商品列表删除旧的商品）**
 
-![](/images/image-4.png)
+![](https://img.yongshizhen.com/file/RXnYlL7i.png)
 
 # 淘宝闪购
 
