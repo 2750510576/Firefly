@@ -194,6 +194,8 @@ comment: true
 
 **删除旧的，直接新增新的（非药可以直接在编辑中修改商品信息和图片）**
 
+![](https://img.yongshizhen.com/file/gG0UhOyo.png)
+
 ## 2、活动价设置
 
 ![](https://img.yongshizhen.com/file/np6DuzoF.png)
