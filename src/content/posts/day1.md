@@ -156,7 +156,7 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/kECyd96N.png)
 
-
+![](https://img.yongshizhen.com/file/PlPcWT9R.png)
 
 ### ‌②活动价新增
 
