@@ -128,15 +128,15 @@ comment: true
 
 **点击上侧“新建单个商品”**
 
-**可以使用条码搜索（UPC编码）或商品标题搜索123**
+**可以使用条码搜索（UPC编码）或商品标题搜索**
 
-![image.png](https://img.yongshizhen.com/file/LS9VXDTX.png)
+![](https://img.yongshizhen.com/file/LS9VXDTX.png)
 
-![image.png](https://img.yongshizhen.com/file/Qrv5M7em.png)
+![](https://img.yongshizhen.com/file/Qrv5M7em.png)
 
-**待商品列表出现商品后，点击编辑按钮，填写店内码（这个是对接库存的唯一途径）**
+**待商品列表出现商品后，点击编辑按钮，填写店内码（这个是对接库存的唯一途径）123**
 
-![image.png](/images/image-3.png)
+![](https://img.yongshizhen.com/file/sptKNKLr.png)
 
 **备注：部分商品由于厂家更换包装或更换商标，上架时以实物为准，例如实物商标是龙凤堂就选择龙凤堂，同时核对好规格**
 
@@ -144,11 +144,11 @@ comment: true
 
 **一般是修改商品小标题，其他的修改也可以参考这个操作**
 
-![image.png](/images/image-2.png)
+![](/images/image-2.png)
 
 **多数情况下，美团会在新的UPC码后面增加上1，上架方法参考前一条内容（但是这里需要注意先在商品列表删除旧的商品）**
 
-![image.png](/images/image-4.png)
+![](/images/image-4.png)
 
 # 淘宝闪购
 
