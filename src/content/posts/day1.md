@@ -190,6 +190,8 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/7efdlmKd.png)
 
+### ‌②商品修改
+
 ## 2、活动价设置
 
 # 京东
