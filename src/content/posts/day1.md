@@ -178,7 +178,7 @@ comment: true
 
 # 淘宝闪购
 
-## 创建商品
+## 商品管理
 
 ![](https://img.yongshizhen.com/file/KO0CvWcm.png)
 
