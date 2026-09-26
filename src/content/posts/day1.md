@@ -154,6 +154,8 @@ comment: true
 
 ### ①活动价修改
 
+![](https://img.yongshizhen.com/file/kECyd96N.png)
+
 
 
 ### ‌②活动价新增
