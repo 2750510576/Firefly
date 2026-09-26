@@ -134,7 +134,7 @@ comment: true
 
 ![](https://img.yongshizhen.com/file/Qrv5M7em.png)
 
-**待商品列表出现商品后，点击编辑按钮，填写店内码（这个是对接库存的唯一途径）123**
+**待商品列表出现商品后，点击编辑按钮，填写店内码（这个是对接库存的唯一途径）**
 
 ![](https://img.yongshizhen.com/file/sptKNKLr.png)
 
@@ -149,6 +149,7 @@ comment: true
 **多数情况下，美团会在新的UPC码后面增加上1，上架方法参考前一条内容（但是这里需要注意先在商品列表删除旧的商品）**
 
 ![](https://img.yongshizhen.com/file/RXnYlL7i.png)
+
 ## 2、活动价设置
 
 ## 3、效期设置
